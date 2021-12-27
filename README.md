@@ -7,6 +7,8 @@ Discord Nitro QR Kod ile kurbanın tokeni'ni çalmayı gösteriyorum Python Prog
 
 ![img1](https://i.ibb.co/BL2Q0jz/Screenshot-527.png)
 
+![image](https://user-images.githubusercontent.com/67175233/147495019-d3374ed7-57eb-4ec9-889c-7996c3fc89d0.png)
+
 ## Kullanım
 ![qr-code](https://user-images.githubusercontent.com/75003671/117522092-fd79ff80-afe3-11eb-938c-23dd68d5927c.gif)
 
