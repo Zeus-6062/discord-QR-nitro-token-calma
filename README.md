@@ -2,9 +2,8 @@
 
 Herkese Selam Ben Zeus Bugün Discord Image Nitro Token Çalma'yı Göstericem Herhangi bir sorun ile Discord: https://discord.gg/dwwPJwzN5E İletişime Geçebilirsin
 
-### About
-A Python script that automatically generates a Nitro scam QR code and grabs the Discord token when scanned. This tool demonstrates how people can trick others
-into scanning their Discord login QR Code, and gain access to their account. Use for Educational Purposes only.
+### Hakkında
+Discord Nitro QR Kod ile kurbanın tokeni'ni çalmayı gösteriyorum Python Programlama dili ile yazılmıştır kullanımı kolay ve basittir.
 
 ![img1](https://i.ibb.co/BL2Q0jz/Screenshot-527.png)
 
