@@ -1,6 +1,6 @@
 # Discord-QR-Token-Çalma
 
-Herkese Selam Ben Zeus Bugün Discord Image Nitro Token Çalma'yı Göstericem Herhangi bir sorun ile Discord: https://discord.gg/dwwPJwzN5E İletişime Geçebilirsin __Kesinlikle Kötüye Kullanmayın Bilgilendirme amaçlıdır__
+Herkese Selam Ben Zeus Bugün Discord Image Nitro Token Çalma'yı Göstericem Herhangi bir sorun ile Discord: https://discord.gg/dwwPJwzN5E İletişime Geçebilirsin **__Kesinlikle Kötüye Kullanmayın Bilgilendirme amaçlıdır !!__**
 
 ### Hakkında
 Discord Nitro QR Kod ile kurbanın tokeni'ni çalmayı gösteriyorum Python Programlama dili ile yazılmıştır kullanımı kolay ve basittir.
