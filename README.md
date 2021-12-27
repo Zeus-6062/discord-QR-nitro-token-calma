@@ -1,5 +1,6 @@
 # Discord-QR-Token-Çalma
-Discord Image Nitro Token Çalma 
+
+Herkese Selam Ben Zeus Bugün Discord Image Nitro Token Çalma'yı Göstericem Herhangi bir sorun ile Discord: https://discord.gg/dwwPJwzN5E İletişime Geçebilirsin
 
 ### About
 A Python script that automatically generates a Nitro scam QR code and grabs the Discord token when scanned. This tool demonstrates how people can trick others
